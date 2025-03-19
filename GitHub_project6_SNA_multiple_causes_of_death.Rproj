@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Version: 1.0
 
 RestoreWorkspace: Default
@@ -11,3 +12,18 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+=======
+Version: 1.0
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+>>>>>>> e6a43197eb614a8f29e816fa8ac755b8305febe7
